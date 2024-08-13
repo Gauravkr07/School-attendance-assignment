@@ -1,0 +1,16 @@
+2024-08-13 16:03:02 - ERROR create_user - Username 'string' is already registered.
+2024-08-13 16:03:08 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fe300>
+2024-08-13 16:03:11 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fdd00>
+2024-08-13 16:03:11 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fd340>
+2024-08-13 16:03:11 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fe390>
+2024-08-13 16:03:11 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fe0f0>
+2024-08-13 16:03:11 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fdbe0>
+2024-08-13 16:03:12 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fd070>
+2024-08-13 16:03:12 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fe3f0>
+2024-08-13 16:03:12 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fd310>
+2024-08-13 16:03:12 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fd250>
+2024-08-13 16:03:12 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fdc10>
+2024-08-13 16:03:13 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x1049fe630>
+2024-08-13 16:03:49 - INFO read_user - User:<School-attendance-assignment.db.schema.User object at 0x113901370>
+2024-08-13 16:04:51 - INFO create_user - User created: ID=5
+2024-08-13 16:05:12 - INFO create_attendance_log - Attendance log are stored for <School-attendance-assignment.db.schema.Student object at 0x10585f6b0> 
